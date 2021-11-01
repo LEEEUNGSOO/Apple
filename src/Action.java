@@ -4,6 +4,14 @@ public class Action {
 		System.out.println("Action");//한글입니다
 		
 		System.out.println("Second");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
+		System.out.println("TesAction");
 	}
 
 }
